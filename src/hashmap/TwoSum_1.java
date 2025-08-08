@@ -1,6 +1,6 @@
 package hashmap;
 
-public class TwoSum
+public class TwoSum_1
 {
     public int[] twoSum(int[] nums, int target)
     {
