@@ -1,6 +1,6 @@
 package alghoritms;
 
-public class palindromenumber
+public class PalindromeNumber
 {
     public boolean isPalindrome(int x)
     {
