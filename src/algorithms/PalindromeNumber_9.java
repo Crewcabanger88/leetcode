@@ -1,4 +1,4 @@
-package alghoritms;
+package algorithms;
 
 public class PalindromeNumber_9
 {
